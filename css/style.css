@@ -31,15 +31,12 @@ h1, h3 {
   color: black;
   font-weight: bold;
   font-size: 2em;
-  padding-left: 20px;
-  padding-top: 20px;
 }
 
 h3 {
   font-size: 1.5em;
   font-weight: lighter;
-  padding-top: 1px;
-  padding-bottom: 20px;
+
 }
 
 .location {
@@ -50,6 +47,15 @@ h3 {
   background-color: gray;
 }
 
+.content {
+padding: 20px;
+display: inline-block;
+width: 90%;
+
+}
+
 .arrow {
-  float: right;
+padding: 15px;
+float: right;
+width: 10%;
 }
